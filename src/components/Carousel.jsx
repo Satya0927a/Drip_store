@@ -11,7 +11,7 @@ const SLIDES = [
     cta: 'Grab the Deal',
     discount: '50% OFF',
     bg: 'from-[#0d1520] via-[#162030] to-[#1a2535]',
-    img: "/crousal/crousal_2.png",
+    img: "/crousal/crousal_2.webp",
     accent: '#60a5fa',
   },
   {
