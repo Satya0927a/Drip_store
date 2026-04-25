@@ -11,7 +11,7 @@ const SLIDES = [
     cta: 'Grab the Deal',
     discount: '50% OFF',
     bg: 'from-[#0d1520] via-[#162030] to-[#1a2535]',
-    img: "/public/crousal/crousal_2.png",
+    img: "/crousal/crousal_2.png",
     accent: '#60a5fa',
   },
   {
@@ -44,7 +44,7 @@ const SLIDES = [
     cta: 'Shop Streetwear',
     discount: 'NEW IN',
     bg: 'from-[#0d0d0d] via-[#1a1a1a] to-[#272727]',
-    img: "/public/crousal/crousal_1.webp",
+    img: "/crousal/crousal_1.webp",
     accent: '#a3e635',
   },
 ]

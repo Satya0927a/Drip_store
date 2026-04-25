@@ -23,17 +23,17 @@ const TRENDING = [
   {
     id: 't3', name: 'Premium Slim-Fit Chinos', category: 'Men · Trousers',
     price: 1499, originalPrice: 2499, rating: 4.3,
-    img: '/public/products/product_1.png',
+    img: '/products/product_1.png',
   },
   {
     id: 't4', name: 'Linen T-shirt Set', category: 'Men · Sets',
     price: 1899, originalPrice: 3499,  rating: 4.8,
-    img: '/public/products/product_5.webp',
+    img: '/products/product_5.webp',
   },
   {
     id: 't5', name: 'Indigo Shirt', category: 'Men · Shirt',
     price: 1299, originalPrice: 1999, rating: 4.6,
-    img: '/public/products/product_6.webp',
+    img: '/products/product_6.webp',
   },
 ]
 
